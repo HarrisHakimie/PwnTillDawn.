@@ -10,7 +10,7 @@ connect Kali tu PwnTillDawn vpn.
 ```
 sudo openvpn PwnTillDawn.ovpn
 ```
-Once connected, an IP will appear in the top right corner showing 10.66.67.??
+Once connected, an IP will appear in the top right corner showing 10.66.67.170
 
 ## Step 2
 
